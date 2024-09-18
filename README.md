@@ -1,4 +1,4 @@
-# Hi there! I'm Juan Jose Borrelli 👋
+# Welcome! I'm Juan Jose Borrelli 👋
 
 I'm a **Full Stack Developer** with a strong focus on frontend development. I love creating web applications that not only work flawlessly but also deliver exceptional user experiences.
 
